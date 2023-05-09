@@ -43,12 +43,12 @@ const routes = [
     }
   },
   {
-    path: "/about-us",
+    path: "/about",
     name: "About",
     component: AboutView
   },
   {
-    path: "/about",
+    path: "/about-us",
     redirect: { name: "About" }
   }
 ];

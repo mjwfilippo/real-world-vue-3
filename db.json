@@ -6,7 +6,7 @@
       "title": "Cat Adoption Day",
       "description": "Find your new feline friend at this event.",
       "location": "Meow Town",
-      "date": "January 28, 2022",
+      "date": "May 28, 2023",
       "time": "12:00",
       "organizer": "Kat Laydee"
     },
@@ -16,7 +16,7 @@
       "title": "Community Gardening",
       "description": "Join us as we tend to the community edible plants.",
       "location": "Flora City",
-      "date": "March 14, 2022",
+      "date": "July 14, 2023",
       "time": "10:00",
       "organizer": "Fern Pollin"
     },
@@ -26,7 +26,7 @@
       "title": "Beach Cleanup",
       "description": "Help pick up trash along the shore.",
       "location": "Playa Del Carmen",
-      "date": "July 22, 2022",
+      "date": "August 22, 2023",
       "time": "11:00",
       "organizer": "Carey Wales"
     },
@@ -36,7 +36,7 @@
       "title": "Dog Adoption Day",
       "description": "Find your new canine friend at this event.",
       "location": "Woof Town",
-      "date": "August 28, 2022",
+      "date": "September 28, 2023",
       "time": "12:00",
       "petsAllowed": true,
       "organizer": "Dawg Dahd"
@@ -47,7 +47,7 @@
       "title": "Canned Food Drive",
       "description": "Bring your canned food to donate to those in need.",
       "location": "Tin City",
-      "date": "September 14, 2022",
+      "date": "October 14, 2023",
       "time": "3:00",
       "petsAllowed": true,
       "organizer": "Kahn Opiner"
@@ -58,7 +58,7 @@
       "title": "Highway Cleanup",
       "description": "Help pick up trash along the highway.",
       "location": "Highway 50",
-      "date": "July 22, 2022",
+      "date": "August 22, 2023",
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Brody Kill"
