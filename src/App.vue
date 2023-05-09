@@ -71,12 +71,12 @@ h4 {
 }
 
 #flashMessage {
-  animation: yellowfade 3s;
+  animation: greenfade 3s;
 }
 
-@keyframes yellowfade {
+@keyframes greenfade {
   from {
-    background: rgb(164, 235, 171);
+    background: #63e8ac;
   }
   to {
     background: transparent;
