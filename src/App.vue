@@ -76,7 +76,7 @@ h4 {
 
 @keyframes yellowfade {
   from {
-    background: rgb(164, 235, 192);
+    background: rgb(164, 235, 171);
   }
   to {
     background: transparent;
