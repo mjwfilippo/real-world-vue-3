@@ -15,6 +15,11 @@
   color: #2c3e50;
 }
 
+.no-text-dec {
+  text-decoration: none;
+  color: #42b983;
+}
+
 nav {
   padding: 30px;
 }
@@ -30,5 +35,29 @@ nav a.router-link-exact-active {
 
 h4 {
   font-size: 20px;
+}
+
+.btn {
+  display: inline-flex;
+  padding: 15px 50px;
+  background-color: #42b983;
+  color: white;
+  border: 1px solid #42b983;
+  border-radius: 10px;
+  font: bold 1.17em/1.5em Avenir, sans-serif;
+  text-decoration: none;
+}
+
+.animation {
+  rotate: x 0deg;
+  scale: 1;
+  transition: 0.1s ease-in-out;
+}
+
+.animation:hover {
+  box-shadow: 0 3px 12px 0 rgba(0, 0, 0, 0.2);
+  rotate: x 10deg;
+  scale: 1.04;
+  transition: 0.1s ease-in-out;
 }
 </style>

@@ -1,6 +1,6 @@
 <template>
   <p>Register for the event here</p>
-  <button @click="register">Register Me</button>
+  <button class="btn animation" @click="register">Register Me</button>
 </template>
 
 <script>
